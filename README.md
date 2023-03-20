@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathmeshaghao
-- 👀 I’m interested in ... Front End Development 
-- 🌱 I’m currently graduating from KC College Of Engineering,Thane(Second Year)
+- 👀 I’m interested in ... FED(JS) 
+- 🌱 I’m currently graduating from KC College Of Engineering,Thane(T.Y)
 - 💞️ I’m looking to collaborate on ...Github Community 
 - 📫 How to reach me ...Dm's are open 
 
