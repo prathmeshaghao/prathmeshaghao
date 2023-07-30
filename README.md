@@ -1,4 +1,5 @@
-[![MasterHead](src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz/fullscreen")]
+![Blockchain-Technology](https://github.com/prathmeshaghao/prathmeshaghao/assets/89900988/6d6a9105-ef2a-4c1c-a4c8-225fdaba8a87)
+
 <h1 align="center">I'm Prathmesh Aghao</h1>
 <h3 align="center">Graduate Student | B.E in Computer Science(Final Year) | Smart Contracts | Web3 Optimist | Blockchain Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/wiobyrne.com/wp-content/uploads/2018/07/GleamingReflectingCricket.gif?ssl=1">
