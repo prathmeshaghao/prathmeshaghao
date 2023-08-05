@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain Developement**
 
-- 💬 Ask me about **Solidity,Javascript,Hardhat**
+- 💬 Ask me about **Solidity,SmartContracts,Hardhat,Ether.js,JS**
 
 - 📫 How to reach me **prathmeshaghao@gmail.com**
 
