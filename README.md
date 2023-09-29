@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Solidity,SmartContracts,Hardhat,Ether.js,JS**
 
-- 📫 How to reach me **prathmeshaghao@gmail.com**
+- 📫 Reach me on **prathmeshaghao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
