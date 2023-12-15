@@ -1,16 +1,16 @@
 ![Blockchain-Technology](https://github.com/prathmeshaghao/prathmeshaghao/assets/89900988/6d6a9105-ef2a-4c1c-a4c8-225fdaba8a87)
 
 <h1 align="center">I'm Prathmesh Aghao</h1>
-<h3 align="center">Graduate Student | B.E in Computer Science(Final Year) | Smart Contracts | Web3 Optimist | Blockchain Developer (looking for internship/part time)</h3>
+<h3 align="center">Graduate Student | B.E in Computer Science(Final Year) | Smart Contracts | MERN STACK | Blockchain Developer (looking for internship/part time)</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/wiobyrne.com/wp-content/uploads/2018/07/GleamingReflectingCricket.gif?ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshaghao&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshaghao" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prathmeshaghao" target="blank"><img src="https://img.shields.io/twitter/follow/prathmeshaghao?logo=twitter&style=for-the-badge" alt="prathmeshaghao" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Developement**
+- 🌱 I’m currently learning **Blockchain Developement** & **MERN Stack**
 
-- 💬 Ask me about **Solidity,SmartContracts,Hardhat,Ether.js,JS**
+- 💬 Ask me about **Solidity,Hardhat,MERN Stack,JS**
 
 - 📫 Reach me on **prathmeshaghao@gmail.com**
 
