@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain Developement** & **MERN Stack**
 
-- 💬 Ask me about **Solidity,Hardhat,MERN Stack,JS**
+- 💬 Ask me about **Solidity,Hardhat,MERN Stack,ES6**
 
 - 📫 Reach me on **prathmeshaghao@gmail.com**
 
